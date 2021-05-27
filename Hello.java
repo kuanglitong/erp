@@ -3,6 +3,7 @@ public class Hello {
 		System.out.println("Hello GIT！");
 		System.out.println("修改仓库文件1");
 		System.out.println("修改仓库文件2");	
-		System.out.println("试探回退操作");			
+		System.out.println("试探回退操作");
+		System.out.println(new java.util.Date());						
 	}
 }
