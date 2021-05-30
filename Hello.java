@@ -6,6 +6,7 @@ public class Hello {
 		System.out.println("解决冲突");
 		Admin admin = new Admin();
 		Emp emp = new Emp();
+		Date date = new Date();
 	}
 }
 
