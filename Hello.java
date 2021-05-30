@@ -11,6 +11,7 @@ public class Hello {
 		Admin admin = new Admin();
 		Emp emp = new Emp();
 		Date date = new Date();
+		System.out.println("创建补丁1");
 	}
 }
 
