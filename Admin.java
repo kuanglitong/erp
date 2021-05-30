@@ -5,4 +5,5 @@ public class Admin {
 	private Vote vote = new Vote();
 	private Dept dept = new Dept();
 	private String aid; 
+	private Emp emp;
 }
