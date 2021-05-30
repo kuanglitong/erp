@@ -4,4 +4,5 @@ public class Admin {
 	private Integer aid;
 	private Vote vote = new Vote();
 	private Dept dept = new Dept();
+	private String aid; 
 }
