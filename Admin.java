@@ -1,9 +1,6 @@
-import java.util.List;
-public class Admin {
-	private List<Emp> emps;
-	private Integer aid;
-	private Vote vote = new Vote();
-	private Dept dept = new Dept();
-	private String aid; 
-	private Emp emp;
+import cn.mldn.vo;
+import java.io.*
+public class Admin implements Serializable {
+	private String aid;
+	private String password;
 }
