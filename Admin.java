@@ -1,9 +1,5 @@
-import java.util.List;
+package cn.mldn.demo;
 public class Admin {
-	private List<Emp> emps;
-	private Integer aid;
-	private Vote vote = new Vote();
-	private Dept dept = new Dept();
-	private String aid; 
-	private Emp emp;
+	private String aid;
+	private String password;
 }
